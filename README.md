@@ -1,5 +1,3 @@
-# bagistosupplierinfo
-bagistosupplierinfo
 # Introduction:
 
 Enhance your product pages with our Shipping and Supplier Info Extension for Bagisto. This extension offers customers comprehensive details about shipping and suppliers, promoting transparency and fostering trust in their purchasing decisions.
